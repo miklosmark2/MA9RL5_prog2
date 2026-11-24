@@ -49,8 +49,7 @@ public class KonzolUI {
     }
 
     private void menuKiir() {
-        System.out.println("
-=== KÖNYVTÁRI NYILVÁNTARTÓ ===");
+        System.out.println("\n=== KÖNYVTÁRI NYILVÁNTARTÓ ===");
         System.out.println("1. Új könyv hozzáadása");
         System.out.println("2. Új folyóirat hozzáadása");
         System.out.println("3. Összes dokumentum listázása");
