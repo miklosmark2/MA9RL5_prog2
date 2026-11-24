@@ -51,5 +51,4 @@ Könyv sikeresen hozzáadva.
 - **Döntés:** Egyszerű pontosvesszővel tagolt szöveges fájl (`adatok.csv`) használata külső JSON függőségek helyett a tiszta szabványos könyvtári perzisztencia érdekében.
 - **Korlát:** A mezők értéke nem tartalmazhat pontosvessző (`;`) karaktert, mert az a CSV elválasztójele.
 - **UML diagram:** Megtekinthető a `docs/uml_diagram.png` és `docs/uml.puml` fájlokban.
-
-- **Repository:** https://github.com/miklosmark2/MA9RL5_prog2
+- - **Repository:** https://github.com/miklosmark2/MA9RL5_prog2
