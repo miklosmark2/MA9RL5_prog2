@@ -1,0 +1,16 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Build
+target/
+build/
+*.class
+*.jar
+
+# Local runtime data
+adatok.csv
